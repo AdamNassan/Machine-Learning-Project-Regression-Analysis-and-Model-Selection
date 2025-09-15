@@ -15,7 +15,7 @@ This project can be completed in groups of up to two students.
 ## Dataset
 
 ### Dataset Source
-[Cars Dataset on Kaggle]([https://www.kaggle.com](https://www.kaggle.com/datasets/ahmedwaelnasef/cars-dataset/data))
+[Cars Dataset on Kaggle]([https://www.kaggle.com/datasets/ahmedwaelnasef/cars-dataset/data])
 
 ### Description
 The dataset, scraped from the YallaMotors website, includes approximately 6,750 rows and 9 columns. It contains features such as:
@@ -87,4 +87,5 @@ The report includes:
 
 ### Python Code
 Code provided in `.py` format or a Jupyter Notebook with visualizations.
+
 
